@@ -9,5 +9,5 @@ package OOP_OCP;
  * @author ASEM
  */
 public interface Operation {
-  int operation(int num1,int num2);   
+  double operation(double num1,double num2);   
 }

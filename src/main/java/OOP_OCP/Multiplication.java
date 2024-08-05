@@ -11,7 +11,7 @@ package OOP_OCP;
 public class Multiplication implements Operation{
 
     @Override
-    public int operation(int num1, int num2) {
+    public double operation(double num1, double num2) {
 return num1*num2;
    
    }

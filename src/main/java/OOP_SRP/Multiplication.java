@@ -9,8 +9,8 @@ package OOP_SRP;
  * @author ASEM
  */
 public class Multiplication {
-    public static int multiplication(int num1, int num2) {
-        int result=num1*num2;
+    public static double multiplication(double num1, double num2) {
+        double result=num1*num2;
         return result;
     }
 }

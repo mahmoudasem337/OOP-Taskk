@@ -10,20 +10,20 @@ package OOP_BadDesign;
 //For OCP : Make Operation Interface , implement it by 4 classes +,-,*,/ , Make a composition relation in main class by interface 
 
 public class OOPTask  {
-public static int addition(int num1, int num2) {
-        int result=num1+num2;
+public static double addition(double num1, double num2) {
+        double result=num1+num2;
         return result;
     }
-public static int subtraction(int num1, int num2) {
-        int result=num1-num2;
+public static double subtraction(double num1, double num2) {
+        double result=num1-num2;
         return result;
     }
-public static int multiplication(int num1, int num2) {
-        int result=num1*num2;
+public static double multiplication(double num1, double num2) {
+        double result=num1*num2;
         return result;
     }
-public static int division(int num1, int num2) {
-        int result=num1/num2;
+public static double division(double num1, double num2) {
+        double result=num1/num2;
         return result;
     }
     public static void main(String[] args) {

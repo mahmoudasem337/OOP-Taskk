@@ -9,8 +9,8 @@ package OOP_SRP;
  * @author ASEM
  */
 public class Addition {
-    public static int addition(int num1, int num2) {
-        int result=num1+num2;
+    public static double addition(double num1, double num2) {
+        double result=num1+num2;
         return result;
     }
 }

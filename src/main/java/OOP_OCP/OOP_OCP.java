@@ -15,7 +15,7 @@ public class OOP_OCP {
         this.op = op;
     }
 
-int operation(int num1,int nums2){
+double operation(double num1,double nums2){
     return op.operation(10, 2);
 }
 

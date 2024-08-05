@@ -1,2 +1,12 @@
-com\mycompany\oop\task\OOPTask.class
-com\mycompany\oop\task\additionclass.class
+OOP_OCP\Multiplication.class
+OOP_OCP\Operation.class
+OOP_BadDesign\OOPTask.class
+OOP_SRP\Division.class
+OOP_SRP\Multiplication.class
+OOP_SRP\Addition.class
+OOP_OCP\Addition.class
+OOP_SRP\Subraction.class
+OOP_OCP\OOP_OCP.class
+OOP_SRP\OOP_SRP.class
+OOP_OCP\Division.class
+OOP_OCP\Subtraction.class
